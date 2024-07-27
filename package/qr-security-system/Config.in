@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_QR_SECURITY_SYSTEM
+	bool "qr-security-system"
+	help
+	  Includes code for running a security system on a RPi4. Part of a embedded linux project
