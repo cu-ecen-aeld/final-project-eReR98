@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-QR_SECURITY_SYSTEM_VERSION = ec6efa8b9c60861672e28eb0f540bf7116cc2247
+QR_SECURITY_SYSTEM_VERSION = 64349202ac8f0cd3f081b78d408b495479a14c0a
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
